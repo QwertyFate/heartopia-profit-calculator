@@ -1,0 +1,1102 @@
+[
+  {
+    "Name": "Potatoes",
+    "Category": "Crop",
+    "1-Star": 90,
+    "2-Star": 120,
+    "3-Star": 150,
+    "4-Star": 180,
+    "5-Star": 0,
+    "Cost": 30
+  },
+  {
+    "Name": "Tomato",
+    "Category": "Crop",
+    "1-Star": 30,
+    "2-Star": 40,
+    "3-Star": 50,
+    "4-Star": 60,
+    "5-Star": 0,
+    "Cost": 10
+  },
+  {
+    "Name": "Wheat",
+    "Category": "Crop",
+    "1-Star": 285,
+    "2-Star": 381,
+    "3-Star": 475,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 95
+  },
+  {
+    "Name": "Lettuce",
+    "Category": "Crop",
+    "1-Star": 435,
+    "2-Star": 582,
+    "3-Star": 726,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 145
+  },
+  {
+    "Name": "Pineapple",
+    "Category": "Crop",
+    "1-Star": 52,
+    "2-Star": 69,
+    "3-Star": 86,
+    "4-Star": 104,
+    "5-Star": 0,
+    "Cost": 15
+  },
+  {
+    "Name": "Carrot",
+    "Category": "Crop",
+    "1-Star": 155,
+    "2-Star": 207,
+    "3-Star": 258,
+    "4-Star": 310,
+    "5-Star": 0,
+    "Cost": 50
+  },
+  {
+    "Name": "Strawberry",
+    "Category": "Crop",
+    "1-Star": 375,
+    "2-Star": 502,
+    "3-Star": 626,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 125
+  },
+  {
+    "Name": "Corn",
+    "Category": "Crop",
+    "1-Star": 0,
+    "2-Star": 690,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 170
+  },
+  {
+    "Name": "Grape",
+    "Category": "Crop",
+    "1-Star": 480,
+    "2-Star": 643,
+    "3-Star": 801,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 160
+  },
+  {
+    "Name": "Eggplant",
+    "Category": "Crop",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 135
+  },
+  {
+    "Name": "Tea Tree",
+    "Category": "Crop",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 25
+  },
+  {
+    "Name": "Cacao Tree",
+    "Category": "Crop",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 110
+  },
+  {
+    "Name": "Avacado",
+    "Category": "Crop",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 180
+  },
+  {
+    "Name": "Anglerfish",
+    "Category": "Fish",
+    "1-Star": 320,
+    "2-Star": 480,
+    "3-Star": 640,
+    "4-Star": 1280,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Arctic Char",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Atlantic Mackerel",
+    "Category": "Fish",
+    "1-Star": 150,
+    "2-Star": 225,
+    "3-Star": 300,
+    "4-Star": 600,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Atlantic Pygmy Octopus",
+    "Category": "Fish",
+    "1-Star": 150,
+    "2-Star": 225,
+    "3-Star": 300,
+    "4-Star": 600,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Atlantic Salmon",
+    "Category": "Fish",
+    "1-Star": 155,
+    "2-Star": 232,
+    "3-Star": 310,
+    "4-Star": 620,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Beltfish",
+    "Category": "Fish",
+    "1-Star": 105,
+    "2-Star": 157,
+    "3-Star": 210,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Blackspot Seabream",
+    "Category": "Fish",
+    "1-Star": 230,
+    "2-Star": 345,
+    "3-Star": 460,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Bluegill",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Blue Ero Crayfish",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Bluefin Tuna",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Burbot",
+    "Category": "Fish",
+    "1-Star": 230,
+    "2-Star": 345,
+    "3-Star": 460,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Butterfly Koi",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Chum Salmon",
+    "Category": "Fish",
+    "1-Star": 150,
+    "2-Star": 225,
+    "3-Star": 300,
+    "4-Star": 600,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Clownfish (hard to catch until lvl 5)",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Common Barbel",
+    "Category": "Fish",
+    "1-Star": 75,
+    "2-Star": 112,
+    "3-Star": 150,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Common Bleak",
+    "Category": "Fish",
+    "1-Star": 50,
+    "2-Star": 75,
+    "3-Star": 100,
+    "4-Star": 200,
+    "5-Star": 400,
+    "Cost": 0
+  },
+  {
+    "Name": "Common Carp",
+    "Category": "Fish",
+    "1-Star": 230,
+    "2-Star": 345,
+    "3-Star": 460,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Common Chub",
+    "Category": "Fish",
+    "1-Star": 75,
+    "2-Star": 112,
+    "3-Star": 150,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Common Octopus",
+    "Category": "Fish",
+    "1-Star": 320,
+    "2-Star": 480,
+    "3-Star": 640,
+    "4-Star": 1280,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Common Rudd",
+    "Category": "Fish",
+    "1-Star": 150,
+    "2-Star": 225,
+    "3-Star": 300,
+    "4-Star": 600,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Common Shrimp",
+    "Category": "Fish",
+    "1-Star": 50,
+    "2-Star": 75,
+    "3-Star": 100,
+    "4-Star": 200,
+    "5-Star": 400,
+    "Cost": 0
+  },
+  {
+    "Name": "Common Whitefish",
+    "Category": "Fish",
+    "1-Star": 105,
+    "2-Star": 157,
+    "3-Star": 210,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Crucian Carp",
+    "Category": "Fish",
+    "1-Star": 75,
+    "2-Star": 112,
+    "3-Star": 150,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Edible Frog (Mermaid Attractor Req)",
+    "Category": "Fish",
+    "1-Star": 320,
+    "2-Star": 480,
+    "3-Star": 640,
+    "4-Star": 1280,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "European Crayfish",
+    "Category": "Fish",
+    "1-Star": 100,
+    "2-Star": 150,
+    "3-Star": 200,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "European Eel",
+    "Category": "Fish",
+    "1-Star": 380,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "European Flying Squid",
+    "Category": "Fish",
+    "1-Star": 320,
+    "2-Star": 480,
+    "3-Star": 640,
+    "4-Star": 1280,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "European Lobster",
+    "Category": "Fish",
+    "1-Star": 230,
+    "2-Star": 345,
+    "3-Star": 460,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "European Mudminnow",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "European Perch",
+    "Category": "Fish",
+    "1-Star": 75,
+    "2-Star": 112,
+    "3-Star": 150,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "European Plaice",
+    "Category": "Fish",
+    "1-Star": 230,
+    "2-Star": 345,
+    "3-Star": 460,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "European Smelt",
+    "Category": "Fish",
+    "1-Star": 100,
+    "2-Star": 150,
+    "3-Star": 200,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "False Scad",
+    "Category": "Fish",
+    "1-Star": 155,
+    "2-Star": 232,
+    "3-Star": 310,
+    "4-Star": 620,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Freshwater Blenny",
+    "Category": "Fish",
+    "1-Star": 150,
+    "2-Star": 225,
+    "3-Star": 300,
+    "4-Star": 600,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Giant Oarfish",
+    "Category": "Fish",
+    "1-Star": 535,
+    "2-Star": 802,
+    "3-Star": 1070,
+    "4-Star": 2140,
+    "5-Star": 4280,
+    "Cost": 0
+  },
+  {
+    "Name": "Goby",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Golden King Crab",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Goldfish",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Grayling",
+    "Category": "Fish",
+    "1-Star": 230,
+    "2-Star": 345,
+    "3-Star": 460,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Haddock",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Hermit Crab",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Horse Mackerel",
+    "Category": "Fish",
+    "1-Star": 50,
+    "2-Star": 75,
+    "3-Star": 100,
+    "4-Star": 200,
+    "5-Star": 400,
+    "Cost": 0
+  },
+  {
+    "Name": "Huchen",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 570,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "King Crab",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Large Pearl Mussel",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Largemouth Bass",
+    "Category": "Fish",
+    "1-Star": 230,
+    "2-Star": 345,
+    "3-Star": 460,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Mediterranean Killifish",
+    "Category": "Fish",
+    "1-Star": 150,
+    "2-Star": 225,
+    "3-Star": 300,
+    "4-Star": 600,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Minnow",
+    "Category": "Fish",
+    "1-Star": 50,
+    "2-Star": 75,
+    "3-Star": 100,
+    "4-Star": 200,
+    "5-Star": 400,
+    "Cost": 0
+  },
+  {
+    "Name": "Moonfish",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Mottled Sculpin",
+    "Category": "Fish",
+    "1-Star": 150,
+    "2-Star": 225,
+    "3-Star": 300,
+    "4-Star": 600,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Mud Sunfish",
+    "Category": "Fish",
+    "1-Star": 100,
+    "2-Star": 150,
+    "3-Star": 200,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Mussel",
+    "Category": "Fish",
+    "1-Star": 100,
+    "2-Star": 150,
+    "3-Star": 200,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Northern Pike",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Nursehound",
+    "Category": "Fish",
+    "1-Star": 535,
+    "2-Star": 802,
+    "3-Star": 1070,
+    "4-Star": 2140,
+    "5-Star": 4280,
+    "Cost": 0
+  },
+  {
+    "Name": "Ocean Sunfish",
+    "Category": "Fish",
+    "1-Star": 850,
+    "2-Star": 1275,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Oriental Shrimp",
+    "Category": "Fish",
+    "1-Star": 50,
+    "2-Star": 75,
+    "3-Star": 100,
+    "4-Star": 200,
+    "5-Star": 400,
+    "Cost": 0
+  },
+  {
+    "Name": "Puffer Fish",
+    "Category": "Fish",
+    "1-Star": 230,
+    "2-Star": 345,
+    "3-Star": 460,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Pumpkinseed",
+    "Category": "Fish",
+    "1-Star": 250,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Rabbit Fish (Mermaid Attractor Recc.)",
+    "Category": "Fish",
+    "1-Star": 320,
+    "2-Star": 480,
+    "3-Star": 640,
+    "4-Star": 1280,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Red-Bellied Piranha",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "River Crab",
+    "Category": "Fish",
+    "1-Star": 100,
+    "2-Star": 150,
+    "3-Star": 200,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Ruffe",
+    "Category": "Fish",
+    "1-Star": 100,
+    "2-Star": 150,
+    "3-Star": 200,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Sardine",
+    "Category": "Fish",
+    "1-Star": 50,
+    "2-Star": 75,
+    "3-Star": 100,
+    "4-Star": 200,
+    "5-Star": 400,
+    "Cost": 0
+  },
+  {
+    "Name": "Schneider",
+    "Category": "Fish",
+    "1-Star": 50,
+    "2-Star": 75,
+    "3-Star": 100,
+    "4-Star": 200,
+    "5-Star": 400,
+    "Cost": 0
+  },
+  {
+    "Name": "Sea Bass",
+    "Category": "Fish",
+    "1-Star": 75,
+    "2-Star": 112,
+    "3-Star": 150,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Sea Stickleback",
+    "Category": "Fish",
+    "1-Star": 50,
+    "2-Star": 75,
+    "3-Star": 100,
+    "4-Star": 200,
+    "5-Star": 400,
+    "Cost": 0
+  },
+  {
+    "Name": "Seabream",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Seahorse",
+    "Category": "Fish",
+    "1-Star": 100,
+    "2-Star": 150,
+    "3-Star": 200,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Shortfin Mako Shark",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Skipjack Tuna",
+    "Category": "Fish",
+    "1-Star": 210,
+    "2-Star": 315,
+    "3-Star": 420,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Smooth Hammerhead",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Spined Loach",
+    "Category": "Fish",
+    "1-Star": 50,
+    "2-Star": 75,
+    "3-Star": 100,
+    "4-Star": 200,
+    "5-Star": 400,
+    "Cost": 0
+  },
+  {
+    "Name": "Stone Loach",
+    "Category": "Fish",
+    "1-Star": 100,
+    "2-Star": 150,
+    "3-Star": 200,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Streber",
+    "Category": "Fish",
+    "1-Star": 50,
+    "2-Star": 75,
+    "3-Star": 100,
+    "4-Star": 200,
+    "5-Star": 400,
+    "Cost": 0
+  },
+  {
+    "Name": "Striped Red Mullet",
+    "Category": "Fish",
+    "1-Star": 320,
+    "2-Star": 480,
+    "3-Star": 640,
+    "4-Star": 1280,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Swordfish",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Tadpole",
+    "Category": "Fish",
+    "1-Star": 100,
+    "2-Star": 150,
+    "3-Star": 200,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Tench",
+    "Category": "Fish",
+    "1-Star": 50,
+    "2-Star": 75,
+    "3-Star": 100,
+    "4-Star": 200,
+    "5-Star": 400,
+    "Cost": 0
+  },
+  {
+    "Name": "Three-Spined Stickleback",
+    "Category": "Fish",
+    "1-Star": 150,
+    "2-Star": 225,
+    "3-Star": 300,
+    "4-Star": 600,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Tilapia (Mermaid Attractor Req)",
+    "Category": "Fish",
+    "1-Star": 320,
+    "2-Star": 480,
+    "3-Star": 640,
+    "4-Star": 1280,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Trout",
+    "Category": "Fish",
+    "1-Star": 230,
+    "2-Star": 345,
+    "3-Star": 460,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Tub Gurnard",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Turbot",
+    "Category": "Fish",
+    "1-Star": 320,
+    "2-Star": 480,
+    "3-Star": 640,
+    "4-Star": 1280,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Wels Catfish",
+    "Category": "Fish",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Zander",
+    "Category": "Fish",
+    "1-Star": 230,
+    "2-Star": 345,
+    "3-Star": 460,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 0
+  },
+  {
+    "Name": "Meat",
+    "Category": "market",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 200
+  },
+  {
+    "Name": "Egg",
+    "Category": "market",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 100
+  },
+  {
+    "Name": "Milk",
+    "Category": "market",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 50
+  },
+  {
+    "Name": "Cheese",
+    "Category": "market",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 100
+  },
+  {
+    "Name": "Butter",
+    "Category": "market",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 150
+  },
+  {
+    "Name": "Coffee Beans",
+    "Category": "market",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 50
+  },
+  {
+    "Name": "Tea Leaves",
+    "Category": "market",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 250
+  },
+  {
+    "Name": "Matcha Powder",
+    "Category": "market",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 250
+  },
+  {
+    "Name": "Rice Flour",
+    "Category": "market",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 50
+  },
+  {
+    "Name": "Red Bean",
+    "Category": "market",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 50
+  },
+  {
+    "Name": "Cooking Oil",
+    "Category": "market",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 100
+  },
+  {
+    "Name": "Black Truffle",
+    "Category": "Wild",
+    "1-Star": 0,
+    "2-Star": 0,
+    "3-Star": 0,
+    "4-Star": 0,
+    "5-Star": 0,
+    "Cost": 160
+  }
+]
