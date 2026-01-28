@@ -495,30 +495,33 @@ function renderRecipes() {
                     <div class="ingredient-entry" style="font-weight: bold; margin-top: 10px; padding-top: 10px; border-top: 1px solid #ddd;">
                         Total Cost: $${costAndProfit.totalCost.toFixed(2)}
                     </div>
-                </div>
-                <div class="star-prices">
-                    <h4>Recipe Profit</h4>
-                    ${Object.entries(recipe.sellingPrice).map(([star, price]) => {
-                        const profit = costAndProfit.profit[star];
-                        const profitClass = profit >= 0 ? 'profit-positive' : 'profit-negative';
-                        // Calculate profit percentage: (profit / selling price) * 100
-                        let profitPercentage = 0;
-                        if (price > 0) {
-                            profitPercentage = (profit / price) * 100;
-                        } else if (profit !== 0) {
-                            // If selling price is 0 but profit exists (shouldn't happen normally)
-                            profitPercentage = profit > 0 ? Infinity : -Infinity;
-                        }
-                        const profitPercentageText = isFinite(profitPercentage) ? profitPercentage.toFixed(1) + '%' : (profit > 0 ? '∞' : '-∞');
-                        
-                        return `
-                            <div class="star-price">
-                                <div><strong>${star}:</strong> $${price.toFixed(2)}</div>
-                                <div class="${profitClass}" style="margin-top: 4px;">Profit: $${profit.toFixed(2)}</div>
-                                <div class="${profitClass} profit-percentage">(${profitPercentageText})</div>
-                            </div>
-                        `;
-                    }).join('')}
+                    
+                    <div style="margin-top: 20px; padding-top: 20px; border-top: 2px solid #ddd;">
+                        <h4>Recipe Profit</h4>
+                        <div class="star-prices-grid">
+                            ${Object.entries(recipe.sellingPrice).map(([star, price]) => {
+                                const profit = costAndProfit.profit[star];
+                                const profitClass = profit >= 0 ? 'profit-positive' : 'profit-negative';
+                                // Calculate profit percentage: (profit / selling price) * 100
+                                let profitPercentage = 0;
+                                if (price > 0) {
+                                    profitPercentage = (profit / price) * 100;
+                                } else if (profit !== 0) {
+                                    // If selling price is 0 but profit exists (shouldn't happen normally)
+                                    profitPercentage = profit > 0 ? Infinity : -Infinity;
+                                }
+                                const profitPercentageText = isFinite(profitPercentage) ? profitPercentage.toFixed(1) + '%' : (profit > 0 ? '∞' : '-∞');
+                                
+                                return `
+                                    <div class="star-price">
+                                        <div><strong>${star}:</strong> $${price.toFixed(2)}</div>
+                                        <div class="${profitClass}" style="margin-top: 4px;">Profit: $${profit.toFixed(2)}</div>
+                                        <div class="${profitClass} profit-percentage">(${profitPercentageText})</div>
+                                    </div>
+                                `;
+                            }).join('')}
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="raw-comparison-section">
